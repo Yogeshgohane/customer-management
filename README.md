@@ -66,18 +66,10 @@ Project2_CRM/
 
 ---
 
-## ⚙️ Installation & Setup
-
-### 🔹 1. Clone Repository
-
-```bash
-git clone https://github.com/OmkarPandilwar/sample.git
-cd sample/Project2_CRM
-```
 
 ---
 
-### 🔹 2. Backend Setup
+### 🔹 1. Backend Setup
 
 ```bash
 cd backend/src/CustomerManagement.API
@@ -100,7 +92,7 @@ http://localhost:5000/swagger
 
 ---
 
-### 🔹 3. Frontend Setup
+### 🔹 2. Frontend Setup
 
 ```bash
 cd frontend/customer-management-ui
